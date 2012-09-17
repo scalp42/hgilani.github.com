@@ -4,7 +4,7 @@
   <title><![CDATA[Himanshu Gilani]]></title>
   <link href="http://hgilani.github.com/atom.xml" rel="self"/>
   <link href="http://hgilani.github.com/"/>
-  <updated>2012-09-17T06:35:17+02:00</updated>
+  <updated>2012-09-17T06:40:15+02:00</updated>
   <id>http://hgilani.github.com/</id>
   <author>
     <name><![CDATA[Himanshu Gilani]]></name>
@@ -18,11 +18,11 @@
     <link href="http://hgilani.github.com/blog/2012/09/17/introducing-memento/"/>
     <updated>2012-09-17T06:19:00+02:00</updated>
     <id>http://hgilani.github.com/blog/2012/09/17/introducing-memento</id>
-    <content type="html"><![CDATA[<p>Here is a wonderful application that allows you to save any web page that you like. It is your personal space with all that you like on the web. Some space that you can access whenver you like.</p>
+    <content type="html"><![CDATA[<p>Here is a wonderful application that allows you to save any web page that you like. It is your personal space with all that you like on the web. Some space that you can access whenver you like. You can create an account at <a href="http://www.mementodb.com">www.mementodb.com</a></p>
 
 <h2>What are mementos?</h2>
 
-<p>Mementos are anything that you save using this application. You can think of a memento as a copy of the entire web page saved into your account for you to <strong>&#8220;use&#8221;</strong> later. When we say <strong>&#8220;use&#8221;</strong> we really mean you should be able to read, edit or print the mementos.For creating mementos we convert web pages you want to collect into a text format that any one can edit without understanding the techonolgies of the web.</p>
+<p>Mementos are anything that you save using this application. You can think of a memento as a copy of the entire web page saved into your account for you to <strong>&#8220;use&#8221;</strong> later. When we say <strong>&#8220;use&#8221;</strong> we really mean you should be able to read, edit or print the mementos. For creating mementos we convert web pages that you want to collect into a text format that any one can edit without understanding the techonolgies of the web.</p>
 
 <h2>Why Use Memento?</h2>
 
@@ -63,7 +63,7 @@
 
 <h2>Feedback, Ideas or Suggestions</h2>
 
-<p>If you have any ideas, feedback, or suggestions for improving memento then please email me at hgilani[at]gmail[dot]com</p>
+<p>If you have any ideas, feedback, or suggestions for improving Memento then please email me at hgilani[at]gmail[dot]com</p>
 ]]></content>
   </entry>
   
